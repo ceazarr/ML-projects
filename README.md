@@ -1,2 +1,2 @@
 # ML-projects
-Machine Learning projects
+short and easy Machine Learning projects
